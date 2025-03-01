@@ -1,0 +1,327 @@
+{
+    "movies": {
+        "m1": {
+            "id": "m1",
+            "title": "The Shawshank Redemption",
+            "genre": [
+                "Drama"
+            ],
+            "year": 1994,
+            "rating": 9.3,
+            "director": "Frank Darabont",
+            "actors": [
+                "Tim Robbins",
+                "Morgan Freeman"
+            ],
+            "duration": 142,
+            "type": "movie"
+        },
+        "m2": {
+            "id": "m2",
+            "title": "The Godfather",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "year": 1972,
+            "rating": 9.2,
+            "director": "Francis Ford Coppola",
+            "actors": [
+                "Marlon Brando",
+                "Al Pacino"
+            ],
+            "duration": 175,
+            "type": "movie"
+        },
+        "m3": {
+            "id": "m3",
+            "title": "Inception",
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "year": 2010,
+            "rating": 8.8,
+            "director": "Christopher Nolan",
+            "actors": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt"
+            ],
+            "duration": 148,
+            "type": "movie"
+        },
+        "m4": {
+            "id": "m4",
+            "title": "Parasite",
+            "genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "year": 2019,
+            "rating": 8.6,
+            "director": "Bong Joon Ho",
+            "actors": [
+                "Song Kang-ho",
+                "Lee Sun-kyun"
+            ],
+            "duration": 132,
+            "type": "movie"
+        },
+        "m5": {
+            "id": "m5",
+            "title": "Avengers: Endgame",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "year": 2019,
+            "rating": 8.4,
+            "director": "Anthony Russo, Joe Russo",
+            "actors": [
+                "Robert Downey Jr.",
+                "Chris Evans"
+            ],
+            "duration": 181,
+            "type": "movie"
+        }
+    },
+    "music": {
+        "mu1": {
+            "id": "mu1",
+            "title": "Bohemian Rhapsody",
+            "genre": [
+                "Rock"
+            ],
+            "year": 1975,
+            "rating": 9.5,
+            "artist": "Queen",
+            "album": "A Night at the Opera",
+            "duration": 354,
+            "type": "music"
+        },
+        "mu2": {
+            "id": "mu2",
+            "title": "Thriller",
+            "genre": [
+                "Pop",
+                "R&B"
+            ],
+            "year": 1982,
+            "rating": 9.4,
+            "artist": "Michael Jackson",
+            "album": "Thriller",
+            "duration": 293,
+            "type": "music"
+        },
+        "mu3": {
+            "id": "mu3",
+            "title": "Back in Black",
+            "genre": [
+                "Rock",
+                "Hard Rock"
+            ],
+            "year": 1980,
+            "rating": 9.0,
+            "artist": "AC/DC",
+            "album": "Back in Black",
+            "duration": 255,
+            "type": "music"
+        },
+        "mu4": {
+            "id": "mu4",
+            "title": "After Hours",
+            "genre": [
+                "R&B",
+                "Pop"
+            ],
+            "year": 2020,
+            "rating": 8.7,
+            "artist": "The Weeknd",
+            "album": "After Hours",
+            "duration": 214,
+            "type": "music"
+        },
+        "mu5": {
+            "id": "mu5",
+            "title": "folklore",
+            "genre": [
+                "Alternative",
+                "Pop"
+            ],
+            "year": 2020,
+            "rating": 8.9,
+            "artist": "Taylor Swift",
+            "album": "folklore",
+            "duration": 246,
+            "type": "music"
+        }
+    },
+    "books": {
+        "b1": {
+            "id": "b1",
+            "title": "To Kill a Mockingbird",
+            "genre": [
+                "Fiction",
+                "Classic"
+            ],
+            "year": 1960,
+            "rating": 9.2,
+            "author": "Harper Lee",
+            "pages": 281,
+            "publisher": "J. B. Lippincott & Co.",
+            "type": "book"
+        },
+        "b2": {
+            "id": "b2",
+            "title": "1984",
+            "genre": [
+                "Dystopian",
+                "Science Fiction"
+            ],
+            "year": 1949,
+            "rating": 9.1,
+            "author": "George Orwell",
+            "pages": 328,
+            "publisher": "Secker & Warburg",
+            "type": "book"
+        },
+        "b3": {
+            "id": "b3",
+            "title": "The Lord of the Rings",
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ],
+            "year": 1954,
+            "rating": 9.3,
+            "author": "J.R.R. Tolkien",
+            "pages": 1178,
+            "publisher": "Allen & Unwin",
+            "type": "book"
+        },
+        "b4": {
+            "id": "b4",
+            "title": "The Hunger Games",
+            "genre": [
+                "Dystopian",
+                "Science Fiction",
+                "Young Adult"
+            ],
+            "year": 2008,
+            "rating": 8.6,
+            "author": "Suzanne Collins",
+            "pages": 374,
+            "publisher": "Scholastic",
+            "type": "book"
+        },
+        "b5": {
+            "id": "b5",
+            "title": "Educated",
+            "genre": [
+                "Memoir",
+                "Biography"
+            ],
+            "year": 2018,
+            "rating": 8.9,
+            "author": "Tara Westover",
+            "pages": 334,
+            "publisher": "Random House",
+            "type": "book"
+        }
+    },
+    "games": {
+        "g1": {
+            "id": "g1",
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "year": 2017,
+            "rating": 9.5,
+            "developer": "Nintendo",
+            "platforms": [
+                "Nintendo Switch",
+                "Wii U"
+            ],
+            "multiplayer": false,
+            "type": "game"
+        },
+        "g2": {
+            "id": "g2",
+            "title": "The Witcher 3: Wild Hunt",
+            "genre": [
+                "Action",
+                "RPG"
+            ],
+            "year": 2015,
+            "rating": 9.4,
+            "developer": "CD Projekt Red",
+            "platforms": [
+                "PC",
+                "PlayStation 4",
+                "Xbox One",
+                "Nintendo Switch"
+            ],
+            "multiplayer": false,
+            "type": "game"
+        },
+        "g3": {
+            "id": "g3",
+            "title": "Fortnite",
+            "genre": [
+                "Battle Royale",
+                "Survival"
+            ],
+            "year": 2017,
+            "rating": 8.8,
+            "developer": "Epic Games",
+            "platforms": [
+                "PC",
+                "PlayStation",
+                "Xbox",
+                "Nintendo Switch",
+                "Mobile"
+            ],
+            "multiplayer": true,
+            "type": "game"
+        },
+        "g4": {
+            "id": "g4",
+            "title": "Red Dead Redemption 2",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "year": 2018,
+            "rating": 9.7,
+            "developer": "Rockstar Games",
+            "platforms": [
+                "PlayStation 4",
+                "Xbox One",
+                "PC"
+            ],
+            "multiplayer": true,
+            "type": "game"
+        },
+        "g5": {
+            "id": "g5",
+            "title": "Minecraft",
+            "genre": [
+                "Sandbox",
+                "Survival"
+            ],
+            "year": 2011,
+            "rating": 9.3,
+            "developer": "Mojang",
+            "platforms": [
+                "PC",
+                "Console",
+                "Mobile"
+            ],
+            "multiplayer": true,
+            "type": "game"
+        }
+    }
+}
